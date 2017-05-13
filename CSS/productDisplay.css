@@ -1,0 +1,11 @@
+#itemList {
+    border:1px solid gray;
+    column-span:inherit;
+    /*height:auto;
+    width:auto;*/
+}
+
+/*#itemList.img {
+    height:20;
+    width:20;
+}*/

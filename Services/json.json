@@ -1,0 +1,40 @@
+﻿{
+  "productList": [
+    {
+      "name": "AppleiXoom",
+      "image": "../Images/s1.jpg",
+      "content": "The iPad is a 9.7 inch touch screen tablet PC made by Apple . The iPad is basically a netbook without a keyboard. ... The iPad, which uses Apple's mobile operating system (iOS) combines the computing power of a laptop or desktop computer.",
+      "price": 200
+    },
+    {
+      "name": "Tshirt",
+      "image": "../Images/s2.jpg",
+      "content": "Typically made of cotton fibers knitted in a jersey stitch, they have a distinctive soft texture compared to woven shirts. The majority of modern versions have a body made from a continuously woven tube, on a circular loom",
+      "price": 300
+    },
+    {
+      "name": "Shoes",
+      "image": "../Images/s3.jpg",
+      "content": "A shoe is an item of footwear intended to protect and comfort the human foot while doing various activities. Shoes are also used as an item of decoration. The design of shoes has varied enormously through time.Shoes are also used as an item of decoration. ",
+      "price": 500
+    },
+    {
+      "name": "Samsung",
+      "image": "../Images/s1.jpg",
+      "content": "The iPad is a 9.7 inch touch screen tablet PC made by Apple . The iPad is basically a netbook without a keyboard. ... The iPad, which uses Apple's mobile operating system (iOS) combines the computing power of a laptop or desktop computer.",
+      "price": 600
+    },
+    {
+      "name": "IPhone",
+      "image": "../Images/s3.jpg",
+      "content": "A shoe is an item of footwear intended to protect and comfort the human foot while doing various activities. Shoes are also used as an item of decoration. The design of shoes has varied enormously through time.Shoes are also used as an item of decoration. ",
+      "price": 40
+    },
+    {
+      "name": "LycaMobile",
+      "image": "../Images/s2.jpg",
+      "content": "Typically made of cotton fibers knitted in a jersey stitch, they have a distinctive soft texture compared to woven shirts. The majority of modern versions have a body made from a continuously woven tube, on a circular loom",
+      "price": 30
+    }
+  ]
+}
