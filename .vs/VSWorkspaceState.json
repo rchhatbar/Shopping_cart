@@ -4,8 +4,8 @@
     "\\Controller",
     "\\CSS",
     "\\Module",
-    "\\Services"
+    "\\Services",
+    "\\Templates"
   ],
-  "SelectedNode": "\\Controller\\Controller.js",
   "PreviewInSolutionExplorer": false
 }
