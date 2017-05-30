@@ -1,1 +1,1 @@
-var mainObj = angular.module("mainApp", []);
+var mainObj = angular.module("mainApp", ['ngRoute']);

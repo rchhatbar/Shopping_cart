@@ -1,3 +1,16 @@
+.button {
+    -moz-appearance: button;
+    -webkit-appearance: button;
+    text-decoration: none;
+    font: menu;
+    color: ButtonText;
+    display: inline-block;
+    padding: 2px 8px;
+    align-content:center;
+}
+
 #bodyMain {
-    background-color: #FFFF33;
+    background-color: palevioletred;
+    height: 30px;
+    align-content: center;
 }

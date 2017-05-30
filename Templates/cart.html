@@ -1,9 +1,5 @@
-<!DOCTYPE html>
-<html>
-<head>
-    <meta http-equiv="content-type" content="text/html; charset=utf-8" />
-</head>
-<body>
-    <h1>This is cart page.</h1>
-</body>
-</html>
+﻿<!--Displaying cart Items-->
+<div id="cartDisplay" ng-repeat="item in cartItems">
+    <input type="image" id="{{$index}}" src="../Images/negative.ico" ng-click="removeItem($index, this)" />
+    {{item.id}} - {{item.name}} - {{item.qty}} - {{item.price}}
+</div>
