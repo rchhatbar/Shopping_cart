@@ -1,10 +1,13 @@
-﻿<!DOCTYPE html>
-<html>
-<head>
-    <meta charset="utf-8" />
-    <title></title>
-</head>
-<body>
-
-</body>
-</html>
+﻿<form id="addProduct">
+    Name: <input ng-model="aPname" type="text" /><br />
+    Image Path:<input ng-model="aPimage" type="text" /><br />
+    Description: <input ng-model="aPdescription" type="text" /><br />
+    Price: <input ng-model="aPprice" type="text" /><br />
+    <input id="aPbtn" type="button" value="Add Product" ng-click="postdata(aPname, aPdescription, aPimage, aPprice)" />
+</form>
+<div>
+    <p>Output Message : {{msg}}</p>
+    <p>StatusCode: {{statusval}}</p>
+    <p>Status: {{statustext}}</p>
+    <p>Response Headers: {{headers}}</p>
+</div>

@@ -7,6 +7,10 @@
             templateUrl: '/Templates/cart.html', controller: 'cartCtrl'
         })
 
+        .when('/addProduct', {
+            templateUrl: '/Templates/addProduct.html', controller: 'addProductCtrl'
+        })
+
         .otherwise({
             redirectTo: 'home'
         });
